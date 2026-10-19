@@ -360,14 +360,7 @@ why.
 - [ ] `.env` **not** committed (`git log --all -- .env` returns nothing), and no key in any cell
 - [ ] Your fork is public, and its link is submitted on the LMS
 
-## 8. Academic integrity
+#8. Academic integrity
+Discuss concepts with classmates freely; the code and the written answers must be your own. Disclose AI tool assistance in the notebook's first cell. This is expected and fine, and undisclosed use is not.
 
-Discuss concepts with classmates freely; the code and the written answers must
-be your own. **Disclose AI tool assistance in the notebook's first cell.** This
-is expected and fine, and undisclosed use is not.
-
-The obvious point, again: this homework is about telling what a model knew from
-what it was given. A model that writes your C3 analysis did not see your
-retrieval results, so it can only guess what they were. Your answers have to
-quote *your* chunk ids, *your* scores and *your* token counts. A submission
-whose analysis does not match its own outputs is easy to spot.
+The obvious point, again: this homework is about telling what a model knew from what it was given. A model that writes your C3 analysis did not see your retrieval results, so it can only guess what they were. Your answers have to quote your chunk ids, your scores and your token counts. A submission whose analysis does not match its own outputs is easy to spot.
